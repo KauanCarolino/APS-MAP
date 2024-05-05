@@ -1,0 +1,11 @@
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/bin/Debug/net8.0/APS-MAP
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/bin/Debug/net8.0/APS-MAP.dll
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/bin/Debug/net8.0/APS-MAP.pdb
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/obj/Debug/net8.0/APS-MAP.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/obj/Debug/net8.0/APS-MAP.AssemblyInfoInputs.cache
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/obj/Debug/net8.0/APS-MAP.AssemblyInfo.cs
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/obj/Debug/net8.0/APS-MAP.csproj.CoreCompileInputs.cache
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/obj/Debug/net8.0/APS-MAP.sourcelink.json
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/obj/Debug/net8.0/APS-MAP.dll
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/obj/Debug/net8.0/refint/APS-MAP.dll
+/mnt/sda1/IDES/Rider/RiderProjects/APS-MAP/APS-MAP/obj/Debug/net8.0/APS-MAP.pdb

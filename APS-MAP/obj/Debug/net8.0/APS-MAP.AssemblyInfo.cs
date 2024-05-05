@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APS-MAP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea4c6a0ab2756a3611be54b76732f43aedd59ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7f2a43bb1c63af98a338fddd842e99a8a3634da")]
 [assembly: System.Reflection.AssemblyProductAttribute("APS-MAP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APS-MAP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
